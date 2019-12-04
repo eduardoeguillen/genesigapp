@@ -1,15 +1,34 @@
 {
-    "title": "links",
-    "description": "Links de genesig app",
-    "webpages": [
-      { "id": "0", "titulo": "Sitio Oficial",  "pagina": "http://geoportal.lachuleta.info/", 
-        "imagen":"https://github.com/eduardoeguillen/genesigapp/blob/master/images/giscity.png" },
-      { "id": "1", "titulo": "Sitio Oficial",  "pagina": "http://t.me/sigvenezuela" },
-      { "id": "4", "titulo": "Geoportal",  "pagina": "http://geoportal.lachuleta.info/" },
-      { "id": "8", "titulo": "Instagram",  "pagina": "https://www.instagram.com/eduguillenc" },
-      { "id": "9", "titulo": "Facebook",  "pagina": "https://www.facebook.com/" },
-      { "id": "10", "titulo": "Twitter",  "pagina": "https://twitter.com/eduguillenc" },
-      { "id": "11", "titulo": "Youtube",  "pagina": "https://www.youtube.com/" },
-      { "id": "12", "titulo": "LinkedIn",  "pagina": "https://www.linkedin.com/" }
-    ]
-  }
+  "title": "Proyectos GeneSIG Solutions",
+  "description": "Somos una organización que brinda soluciones integrales especializadas en el campo de la geomatica e informatica a particulares, instacias publicas y privadas. Asi mismo promueve la importancia de la Geomatica para el desarrollo integral del territorio, una organizacion que al mismo tiempo, es un espacio para el crecimiento profesional de las afinidades geográficas e infomaticas del equipo y del mercado actual. Nuestra vision es convertirnos en una referencia Venezolana para la comunidad nacional e internacional, estableciendo nuevas formas de encuentro y de trabajo en este ámplio campo",
+  "proyectos": [
+    {
+      "key": "1",
+      "titulo": "Desarrollo de Geoportal para el Universidad Bolivariana",
+      "texto": "El geoportal de la UBV es una herramienta orientada a facilitar la gestión de información geográfica para el desarrollo territorial de la Universidad Bolivariana de Venezuela a través del seguimiento, análisis, desarrollo y valoración de los procesos académicos, sociopolíticos, administrativos y territoriales en correspondencia a los ejes geopolíticos regionales..",
+      "imagen": "https://github.com/eduardoeguillen/geoubvbeta/blob/master/lib/images/screenshot.jpg?raw=true",
+      "link": "http://geoportal.lachuleta.info/",
+      "status": "Completado"
+    },
+    {
+      "key": "2",
+      "titulo": "Mapas tematicos para el Programa de Formacion de Grado Gestion Ambiental",
+      "texto": "Realizados en Software Libre",
+      "imagen": "http://www.funvisis.gob.ve/old/proyectoescuela/images/large/Act1/0.png",
+      "link": "http://ubv.edu.ve/",
+      "status": "Completado"
+    }
+  ],
+  "links": [
+    { "id": "0", "titulo": "Sitio Oficial",  "pagina": "http://geoportal.lachuleta.info/", 
+      "imagen":"https://github.com/eduardoeguillen/genesigapp/blob/master/images/giscity.png" },
+    { "id": "1", "titulo": "Sitio Oficial",  "pagina": "http://t.me/sigvenezuela" },
+    { "id": "4", "titulo": "Geoportal",  "pagina": "http://geoportal.lachuleta.info/" },
+    { "id": "8", "titulo": "Instagram",  "pagina": "https://www.instagram.com/eduguillenc" },
+    { "id": "9", "titulo": "Facebook",  "pagina": "https://www.facebook.com/" },
+    { "id": "10", "titulo": "Twitter",  "pagina": "https://twitter.com/eduguillenc" },
+    { "id": "11", "titulo": "Youtube",  "pagina": "https://www.youtube.com/" },
+    { "id": "12", "titulo": "LinkedIn",  "pagina": "https://www.linkedin.com/" }
+  ]
+}
+
