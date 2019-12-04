@@ -1,0 +1,22 @@
+{
+    "title": "Proyectos GeneSIG Solutions",
+    "description": "Somos una organización que brinda soluciones integrales especializadas en el campo de la geomatica e informatica a particulares, instacias publicas y privadas. Asi mismo promueve la importancia de la Geomatica para el desarrollo integral del territorio, una organizacion que al mismo tiempo, es un espacio para el crecimiento profesional de las afinidades geográficas e infomaticas del equipo y del mercado actual. Nuestra vision es convertirnos en una referencia Venezolana para la comunidad nacional e internacional, estableciendo nuevas formas de encuentro y de trabajo en este ámplio campo",
+    "proyectos": [
+      {
+        "key": "1",
+        "titulo": "Desarrollo de Geoportal para el Universidad Bolivariana",
+        "texto": "El geoportal de la UBV es una herramienta orientada a facilitar la gestión de información geográfica para el desarrollo territorial de la Universidad Bolivariana de Venezuela a través del seguimiento, análisis, desarrollo y valoración de los procesos académicos, sociopolíticos, administrativos y territoriales en correspondencia a los ejes geopolíticos regionales..",
+        "imagen": "https://github.com/eduardoeguillen/geoubvbeta/blob/master/lib/images/screenshot.jpg?raw=true",
+        "link": "http://geoportal.lachuleta.info/",
+        "status": "Completado"
+      },
+      {
+        "key": "2",
+        "titulo": "Mapas tematicos para el Programa de Formacion de Grado Gestion Ambiental",
+        "texto": "Realizados en Software Libre",
+        "imagen": "http://www.funvisis.gob.ve/old/proyectoescuela/images/large/Act1/0.png",
+        "link": "http://ubv.edu.ve/",
+        "status": "Completado"
+      }
+    ]
+  }
