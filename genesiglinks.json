@@ -3,7 +3,7 @@
     "description": "Links de genesig app",
     "webpages": [
       { "id": "0", "titulo": "Sitio Oficial",  "pagina": "http://geoportal.lachuleta.info/", 
-        "imagen":"https://github.com/eduardoeguillen/web/blob/master/gis.jpg" },
+        "imagen":"https://github.com/eduardoeguillen/genesigapp/blob/master/images/giscity.png" },
       { "id": "1", "titulo": "Sitio Oficial",  "pagina": "http://t.me/sigvenezuela" },
       { "id": "4", "titulo": "Geoportal",  "pagina": "http://geoportal.lachuleta.info/" },
       { "id": "8", "titulo": "Instagram",  "pagina": "https://www.instagram.com/eduguillenc" },
