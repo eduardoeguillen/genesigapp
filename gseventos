@@ -1,7 +1,7 @@
 {
     "title": "Eventos GeneSIG Solutions",
     "description": "Somos una organización que brinda soluciones integrales especializadas en el campo de la geomatica e informatica a particulares, instacias publicas y privadas. Asi mismo promueve la importancia de la Geomatica para el desarrollo integral del territorio, una organizacion que al mismo tiempo, es un espacio para el crecimiento profesional de las afinidades geográficas e infomaticas del equipo y del mercado actual. Nuestra vision es convertirnos en una referencia Venezolana para la comunidad nacional e internacional, estableciendo nuevas formas de encuentro y de trabajo en este ámplio campo",
-    "proyectos": [
+    "eventos": [
       {
         "key": "1",
         "titulo": "Reunion con equipo del MEEU",
