@@ -1,0 +1,22 @@
+{
+    "title": "Nuestros Profesionales",
+    "description": "Somos una organización que brinda soluciones integrales especializadas en el campo de la geomatica e informatica a particulares, instacias publicas y privadas. Asi mismo promueve la importancia de la Geomatica para el desarrollo integral del territorio, una organizacion que al mismo tiempo, es un espacio para el crecimiento profesional de las afinidades geográficas e infomaticas del equipo y del mercado actual. Nuestra vision es convertirnos en una referencia Venezolana para la comunidad nacional e internacional, estableciendo nuevas formas de encuentro y de trabajo en este ámplio campo",
+    "proyectos": [
+      {
+        "key": "1",
+        "titulo": "Eduardo Guillen",
+        "texto": "Ingeniero en Informatica con asm de 5 años de experiencia en el campo de desarollo de Geoportales y Sistemas de Informacion con tecnologia SIG",
+        "imagen": "https://github.com/eduardoeguillen/geoubvbeta/blob/master/lib/images/screenshot.jpg?raw=true",
+        "link": "http://geoportal.lachuleta.info/",
+        "cargo": "CEO / Programador y Analista"
+      },
+      {
+        "key": "2",
+        "titulo": "Cesar Gonzalez",
+        "texto": "Licenciado en Gestion Ambiental con alta trayectoria en manejo de aplicaicones SIG",
+        "imagen": "http://www.funvisis.gob.ve/old/proyectoescuela/images/large/Act1/0.png",
+        "link": "http://ubv.edu.ve/",
+        "status": "CEO / Operador SIG y Analista"
+      }
+    ]
+  }
